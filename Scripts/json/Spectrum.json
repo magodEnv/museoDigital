@@ -1,0 +1,131 @@
+{
+    "Cultural":{
+        "Antropologia":{
+            "Accesorios y vestimentas":{
+                "Abanicos":"S1.0.0.0",
+                "Carteras":"S1.0.0.1",
+                "Otras":"S1.0.0.2",
+                "Sombreros":"S1.0.0.3",
+                "Zapatos":"S1.0.0.4"
+            },
+            "Arqueológico":{
+                "Vasijas completas":"S1.0.1.0",
+                "General":"S1.0.1.1"
+            },
+            "Etnográfica":{
+                "Mapuche":"S1.0.2.0",
+                "Otras":"S1.0.2.1",
+                "Rapa Nui":"S1.0.2.2",
+                "Yagán o Yamana":"S1.0.2.3"
+            },
+            "Textil":{
+                "Históricos":"S1.0.3.0",
+                "Litúrgicos":"S1.0.3.1",
+                "Mapuches":"S1.0.3.2",
+                "Otras":"S1.0.3.3"
+            },
+            "Bioantropología":{
+                "Hominidos":{
+                    "Cuerpos momificados":"S1.0.4.0.0",
+                    "Elementos esqueletales":"S1.0.4.0.1",
+                    "Tejidos blandos":"S1.0.4.0.2"
+                },
+                "Otras":"S1.0.4.1"
+            }
+        },
+        "Arte":{
+            "Arte Visual":{
+                "Artes visuales generales":"S1.1.0.0",
+                "Otras":"S1.1.0.1"
+            },
+            "Artes decorativas y escultura":"S1.1.1",
+            "Fotografica":{
+                "Positivo":"S1.1.2.0",
+                "Negativo":"S1.1.2.1"
+            },
+            "Otras":"S1.1.3"
+        },
+        "Historia":{
+            "Archivos y documentos":{
+                "Coleccion documental R. A. Philippi":"S1.2.0.0",
+                "Direccion de infraestrutura, desarrollo fisico y servicios":"S1.2.0.1",
+                "Direccion Museologica":"S1.2.0.2",
+                "Edward Rojas Vega":"S1.2.0.3",
+                "M Van de Maele":"S1.2.0.4",
+                "Otras":"S1.2.0.5",
+                "Periódicos":"S1.2.0.6",
+                "Planoteca":"S1.2.0.7",
+                "Universidad Austral de Chile":"S1.2.0.8",
+                "Revistas":"S1.2.0.9"
+            },
+            "Audio y visual":{
+                "Maquinas de reproduccion":"S1.2.2.0",
+                "Obras audiovisuales":"S1.2.2.2",
+                "Otras":"S1.2.2.1"
+            },
+            "Bibliografica":{
+                "Libros coleccion DM":"S1.2.3.0",
+                "Libros fondo Petersen":"S1.2.3.1",
+                "Libros historicos regionales, nacionales e internacionales":"S1.2.3.2",
+                "Margarita Alvarado: Coleccion personal":"S1.2.3.3",
+                "Otras":"S1.2.3.4"
+            },
+            "Filatelia y numismática":"S1.2.4",
+            "Historica":{
+                "Colonia Alemana":"S1.2.5.0",
+                "Colonia Española":"S1.2.5.1",
+                "Colonia Holandesa":"S1.2.5.2",
+                "Historia de la ciudad de Valdivia":"S1.2.5.3",
+                "Otras":"S1.2.5.4"
+            },
+            "Inmuebles":{
+                "Casa Anwandter":"S1.2.6.0",
+                "Casa Schuller":"S1.2.6.1",
+                "Sitio arqueologico La Mision":"S1.2.6.2",
+                "Museo colonial Aleman de Frutillar":"S1.2.6.3"
+            },
+            "Maquinas, tecnologías e instrumental científico":{
+                "Maquinas":"S1.2.7.0",
+                "Utensilios":"S1.2.7.1",
+                "Artefactos":"S1.2.7.2",
+                "Tecnologia e intrumental científico":"S1.2.7.3",
+                "Otras":"S1.2.7.4"
+            },
+            "Música":{
+                "Obras musicales":"S1.2.8.0",
+                "Maquinas de reproduccion":"S1.2.8.1",
+                "Otras":"S1.2.8.2"
+            },
+            "Objetos R. A. Philippi":{
+                "Piezas y objetos":"S1.2.9.0",
+                "Otras":"S1.2.9.1"
+            }
+        }
+    },
+    "Natural":{
+        "Zoologico":{
+            "Animal":{
+                "Vertebrados":"S0.0.0.0",
+                "Invertebrados":"S0.0.0.1",
+                "Otras":"S0.0.0.2"
+            },
+            "Otras":"S0.0.1"
+        },
+        "Botanica":{
+            "Flores":{
+                "Flora viva":"S0.1.0.0",
+                "Restos de flora o semillas":"S0.1.0.1",
+                "Otras":"S0.1.0.2"
+            },
+            "Otras":"S0.1.1"
+        },
+        "Paleontologia":{
+            "Fósil":{
+                "Fosiles de flora":"S0.2.0.0",
+                "Fosiles de fauna":"S0.2.0.1",
+                "Otras":"S0.2.0.2"
+            },
+            "Otras":"S0.2.1"
+        }
+    }
+}

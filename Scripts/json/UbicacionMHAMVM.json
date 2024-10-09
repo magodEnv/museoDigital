@@ -1,0 +1,224 @@
+{
+  "1ro":{
+    "Caja escalera A-P1":{
+      "Muro Este": "MH0.0.ME",
+      "Muro Norte": "MH0.0.MN",      
+      "Muro Oeste": "MH0.0.MO",
+      "Muro Sur": "MH0.0.MS",
+      "Cielo": "MH0.0.C"
+    },
+    "Caja escalera B-P1":{
+      "Muro Este": "MH0.1.ME",
+      "Muro Norte": "MH0.1.MN",      
+      "Muro Oeste": "MH0.1.MO",
+      "Muro Sur": "MH0.1.MS",
+      "Cielo": "MH0.1.C"
+    },
+    "Hall de Acceso":{
+      "Muro Este": "MH0.2.ME",
+      "Muro Norte": "MH0.2.MN",      
+      "Muro Oeste": "MH0.2.MO",
+      "Muro Sur": "MH0.2.MS",
+      "Vitrina Norte": "MH0.2.VN",
+      "Vitrina SurEste": "MH0.2.VSE",
+      "Vitrina SurOeste": "MH0.2.VSO",
+      "Cielo": "MH0.2.C"
+    },
+    "Pasillo 1-A":{
+      "Muro Este": "MH0.3.ME",
+      "Muro Oeste": "MH0.3.MO",
+      "Vitrina Este": "MH0.3.VE",
+      "Cielo": "MH0.3.C"
+    },
+    "Porsche Noreste":{
+      "Muro Este": "MH0.4.ME",
+      "Muro Norte": "MH0.4.MN",      
+      "Muro Oeste": "MH0.4.MO",
+      "Muro Sur": "MH0.4.MS",
+      "Cielo": "MH0.4.C"
+    },
+    "Porsche Sureste": {
+      "Muro Este": "MH0.5.ME",
+      "Muro Norte": "MH0.5.MN",      
+      "Muro Oeste": "MH0.5.MO",
+      "Muro Sur": "MH0.5.MS",
+      "Cielo": "MH0.5.C"
+    },
+    "Sala 1820": {
+      "Muro Este": "MH0.6.ME",
+      "Muro Norte": "MH0.6.MN",      
+      "Muro Oeste": "MH0.6.MO",
+      "Muro Sur": "MH0.6.MS",
+      "Piano Sur": "MH0.6.PS",
+      "Vitrina NorOeste": "MH0.6.VNO",
+      "Vitrina Norte": "MH0.6.VN",
+      "Vitrina SurOeste": "MH0.6.VSO",
+      "Cielo": "MH0.6.C"
+    },
+    "Sala Alemana":{
+      "Muro Este": "MH0.7.ME",
+      "Muro Norte": "MH0.7.MN",
+      "Muro Oeste": "MH0.7.MO",
+      "Muro Sur": "MH0.7.MS",
+      "Vitrina NorEste": "MH0.7.VNE",
+      "Vitrina Norte": "MH0.7.VN",
+      "Vitrina Sur": "MH0.7.VS",
+      "Vitrina SurEste": "MH0.7.VSE",
+      "Cielo": "MH0.7.C"
+    },
+    "Sala Arte Religioso":{
+      "Muro Este": "MH0.8.ME",
+      "Muro Norte": "MH0.8.MN",      
+      "Muro Oeste": "MH0.8.MO",
+      "Muro Sur": "MH0.8.MS",
+      "Cielo": "MH0.8.C"
+    },
+    "Sala Camilo Henríquez":{
+      "Muro Este": "MH0.9.ME",
+      "Muro Norte": "MH0.9.MN",      
+      "Muro Oeste": "MH0.9.MO",
+      "Muro Sur": "MH0.9.MS",
+      "Vitrina Norte": "MH0.9.VN",
+      "Vitrina Sur": "MH0.9.VS",
+      "Cielo": "MH0.9.C"
+    },
+    "Sala Carlos Anwandter":{
+      "Muro Este": "MH0.10.ME",
+      "Muro Norte": "MH0.10.MN",      
+      "Muro Oeste": "MH0.10.MO",
+      "Muro Sur": "MH0.10.MS",
+      "Vitrina Norte": "MH0.10.VN",
+      "Vitrina Sur": "MH0.10.VS",
+      "Cielo": "MH0.10.C"
+    },
+    "Sala Cuadra Española":{
+      "Muro Este": "MH0.11.ME",
+      "Muro Norte": "MH0.11.MN",      
+      "Muro Oeste": "MH0.11.MO",
+      "Muro Sur": "MH0.11.MS",
+      "Tarima Oeste": "MH0.11.TO",
+      "Vitrina Este": "MH0.11.VE",
+      "Vitrina NorEste": "MH0.11.VNE",
+      "Vitrina NorOeste": "MH0.11.VNO",
+      "Vitrina Sur": "MH0.11.VS",
+      "Cielo": "MH0.11.C"
+    },
+    "Sala Guillermo Frick":{
+      "Muro Este": "MH0.12.ME",
+      "Muro Norte": "MH0.12.MN",      
+      "Muro Oeste": "MH0.12.MO",
+      "Muro Sur": "MH0.12.MS",
+      "Vitrina NorEste": "MH0.12.VNE",
+      "Vitrina NorOeste": "MH0.12.VNO",
+      "Vitrina Sur": "MH0.12.VS",
+      "Cielo": "MH0.12.C"
+    },
+    "Sala Independencia":{
+      "Cielo": "MH0.13.C",
+      "Muro Este": "MH0.13.ME",
+      "Muro Norte": "MH0.13.MN",      
+      "Muro Oeste": "MH0.13.MO",
+      "Muro Sur": "MH0.13.MS",
+      "Vitrina Norte": "MH0.13.VN",
+      "Vitrina Sur": "MH0.13.VS",
+      "Vitrina Oeste": "MH0.13.VO",
+      "Mesa Central Este": "MH0.13.MCE"
+    },
+    "Sala Juguetes":{
+      "Cielo": "MH0.14.C",
+      "Muro Este": "MH0.14.ME",
+      "Muro Norte": "MH0.14.MN",      
+      "Muro Oeste": "MH0.14.MO",
+      "Muro Sur": "MH0.14.MS",
+      "Vitrina Norte": "MH0.14.VN",
+      "Vitrina SurOeste": "MH0.14.VS",
+      "Vitrina Oeste": "MH0.14.VO",
+      "Baul Sur": "MH0.14.BS"
+    },
+    "Acceso Principal":{
+      "Cielo": "MH0.15.C",
+      "Muro Este": "MH0.15.ME",
+      "Muro Norte": "MH0.15.MN",      
+      "Muro Oeste": "MH0.15.MO",
+      "Muro Sur": "MH0.15.MS"
+    },
+    "Sala Mediateca":{
+      "Muro Este":"MH0.16.ME",
+      "Muro Norte":"MH0.16.MN",
+      "Muro Oeste":"MH0.16.MO",
+      "Muro Sur":"MH0.16.MS",
+      "Cielo":"MH0.16.C"
+    }
+  },
+  "2do":{
+    "Pasillo 2-A":{
+      "Cielo": "MH1.0.C",
+      "Muro Este": "MH1.0.ME",
+      "Muro Norte": "MH1.0.MN",      
+      "Muro Oeste": "MH1.0.MO",
+      "Muro Sur": "MH1.0.MS"
+    },
+    "Pasillo 2-B":{
+      "Cielo": "MH1.1.C",
+      "Muro Este": "MH1.1.ME",
+      "Muro Norte": "MH1.1.MN",      
+      "Muro Oeste": "MH1.1.MO",
+      "Muro Sur": "MH1.1.MS"
+    },
+    "Pasillo 2-C":{
+      "Cielo": "MH1.2.C",
+      "Muro Este": "MH1.2.ME",
+      "Muro Norte": "MH1.2.MN",      
+      "Muro Oeste": "MH1.2.MO",
+      "Muro Sur": "MH1.2.MS"
+    },
+    "Sala Contacto":{
+      "Cielo": "MH1.3.C",
+      "Muro Este": "MH1.3.ME",
+      "Muro Norte": "MH1.3.MN",      
+      "Muro Oeste": "MH1.3.MO",
+      "Muro Sur": "MH1.3.MS",
+      "Vitrina Este": "MH1.3.VE",
+      "Vitrina SurEste": "MH1.3.VSE",
+      "Vitrina SurOeste": "MH1.3.VSO"
+    },
+    "Sala Pláteria Mapuche":{
+      "Cielo": "MH1.4.C",
+      "Muro Este": "MH1.4.ME",
+      "Muro Norte": "MH1.4.MN",      
+      "Muro Oeste": "MH1.4.MO",
+      "Muro Sur": "MH1.4.MS",
+      "Vitrina NorEste": "MH1.4.VNE",
+      "Vitrina NorOeste": "MH1.4.VNO",
+      "Vitrina Oeste": "MH1.4.VO",
+      "Vitrina Sur": "MH1.4.VS"
+    },
+    "Sala Selva Fría":{
+      "Cielo": "MH1.5.C",
+      "Muro Este": "MH1.5.ME",
+      "Muro Norte": "MH1.5.MN",      
+      "Muro Oeste": "MH1.5.MO",
+      "Muro Sur": "MH1.5.MS",
+      "Tarima Este": "MH1.5.TE",
+      "Vitrina Central": "MH1.5.VC",
+      "Vitrina Norte": "MH1.5.VN",
+      "Vitrina SurOeste": "MH1.5.VSO",
+      "Vitrina SurEste": "MH1.5.VSE",
+      "Vitrina NorOeste": "MH1.5.VNO"
+    },
+    "Caja Escalera A-P2":{
+      "Cielo": "MH1.6.C",
+      "Muro Este": "MH1.6.ME",
+      "Muro Norte": "MH1.6.MN",      
+      "Muro Oeste": "MH1.6.MO",
+      "Muro Sur": "MH1.6.MS"
+    },
+    "Caja Escalera B-P2":{
+      "Cielo": "MH1.7.C",
+      "Muro Este": "MH1.7.ME",
+      "Muro Norte": "MH1.7.MN",      
+      "Muro Oeste": "MH1.7.MO",
+      "Muro Sur": "MH1.7.MS"
+    }
+  }
+}

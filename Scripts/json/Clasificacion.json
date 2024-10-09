@@ -1,0 +1,122 @@
+{
+  "Armas":{
+    "Caza":"C0.0",
+    "Deporte":"C0.1",
+    "Defensa":"C0.2"
+  },
+  "Componentes y fragmentos de objetos":{
+    "Arqueológico":"C1.0",
+    "Etnográfico":"C1.1",
+    "Histórico":"C1.2"
+  },
+  "Contenedores":"C2",
+  "Ecofactos":"C3",
+  "Herramientas":{
+    "Alfarería":"C4.0",
+    "Caza y recolección":{
+      "Maritima, rio o lago":"C4.1.0",
+      "Terrestre":"C4.1.1"
+    },
+    "Ceremonial y ritual":"C4.2",
+    "Construccion":"C4.3",
+    "Costura y produccion textil":"C4.4",
+    "Industria lítica":"C4.5",
+    "Madera":"C4.6",
+    "Minería y metalurgia":"C4.7",
+    "Produccion de alimentos":{
+      "Domestico o artesanal":"C4.8.0",
+      "Industrial":"C4.8.1"
+    },
+    "Uso doméstico y menaje":"C4.9"
+  },
+  "Imágenes y representaciones":{
+    "Cuadro":"C5.0",
+    "Dibujo":"C5.1",
+    "Fotografía":{
+      "Diapositiva":"C5.2.0",
+      "Microfilm":"C5.2.1",
+      "Papel fotográfico":"C5.2.2",
+      "Placa de vidrio":"C5.2.3",
+      "Postal":"C5.2.4",
+      "Rollos":"C5.2.5"
+    },
+    "Grabado":"C5.3",
+    "Litografía":"C5.4",
+    "Pinturas":"C5.5",
+    "Escultura":"C5.6"
+  },
+  "Musica2":{
+    "Instrumentos musicales":"C6.0",
+    "Obras":{
+      "Disco de casete":"C6.1.0",
+      "Disco de CD":"C6.1.1",
+      "Disco de cera":"C6.1.2",
+      "Disco de digital":"C6.1.3",
+      "Disco de metal":"C6.1.4",
+      "Disco de vinilo":"C6.1.5"
+    },
+    "Reproductores":"C6.2"
+  },
+  "Mobiliario, equipos y decoración":{
+    "Decoración":"C7.3",
+    "Equipos":"C7.2",
+    "Juguetes":"C7.0",
+    "Mobiliario y textil":"C7.1"
+  },
+  "Textos y archivos":{
+    "Libro":"C8.0",
+    "Manuscrito":"C8.1",
+    "Mecanografiado":"C8.2"
+  },
+  "Transportes":{
+    "Acuático":"C9.0",
+    "Terrestre":"C9.1"
+  },
+  "Vestuario y accesorios":{
+    "Accesorios para el vestuario":{
+      "Brazos o manos":"C10.0.0",
+      "Cabeza":"C10.0.2",
+      "Cintura":"C10.0.3",
+      "Cuello y pecho":"C10.0.1",
+      "Piernas y pies":"C10.0.4"
+    },
+    "Calzado":"C10.1",
+    "Vestuario general":{
+      "Bajo la cintura":"C10.2.0",
+      "En la cintura":"C10.2.1",
+      "Prenda principal":"C10.2.4",
+      "Ropa interior":"C10.2.3",
+      "Sobre la cintura":"C10.2.2"
+    },
+    "Adornos y joyeria":{
+      "Brazos o manos":"C10.4.0",
+      "Cabeza":"C10.4.1",
+      "Cintura":"C10.4.2",
+      "Cuello y pecho":"C10.4.3",
+      "Piernas y pies":"C10.4.4"
+    }
+  },
+  "Filatelia":{
+    "Estampillas o sellos":"C11.0",
+    "Postales":"C11.1",
+    "Sobres":"C11.2"
+  },
+  "Numismática2":{
+    "Billetes":"C12.0",
+    "Fichas":"C12.1",
+    "Monedas":"C12.2",
+    "Medallas":"C12.3"
+  },
+  "Audiovisual":{
+    "Celuloide":{
+      "8mm":"C13.0.0",
+      "16mm":"C13.0.1",
+      "70mm":"C13.0.2"
+    },
+    "Cinta magnetica":{
+      "Analogica":"C13.1.0",
+      "Digital":"C13.1.1"
+    },
+    "Tarjetas de memoria":"C13.2"
+  }
+}
