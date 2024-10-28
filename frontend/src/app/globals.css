@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 255, 255, 255;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.animate-show1 {
+  animation: slideIn 0.5s ease-out forwards;
+  animation-delay: 0s;
+}
+
+.animate-show2 {
+  animation: slideIn 0.5s ease-out forwards;
+  animation-delay: 0.5s;
+}
+
+.animate-show3 {
+  animation: slideIn 0.5s ease-out forwards;
+  animation-delay: 1s;
+}
